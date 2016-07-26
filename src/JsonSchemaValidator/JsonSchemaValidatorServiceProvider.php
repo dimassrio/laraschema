@@ -1,4 +1,4 @@
-<?php namespace Dimassrio\JsonSchemaValidator;
+<?php namespace Dimassrio\Laraschema\JsonSchemaValidator;
 
 use Illuminate\Support\ServiceProvider;
 

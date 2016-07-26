@@ -1,4 +1,4 @@
-<?php namespace Dimassrio\JsonSchemaValidator\Facades;
+<?php namespace Dimassrio\Laraschema\JsonSchemaValidator\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
