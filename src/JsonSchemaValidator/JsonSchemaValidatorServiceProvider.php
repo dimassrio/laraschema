@@ -16,7 +16,6 @@ class JsonSchemaValidatorServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('dimassrio/laraschema');
 	}
 	/**
 	 * Register the service provider.
